@@ -1,0 +1,15 @@
+footer{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: end;
+    background-color: antiquewhite;
+}
+body{
+    height: 100vh;
+    background-image: url(./img/madera.jpg);
+}
+p{
+    font-weight: bold;
+}
